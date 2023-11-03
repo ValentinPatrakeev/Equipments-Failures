@@ -2,7 +2,8 @@
 
 <br/> **Prediction of equipment breakdown/failure**
 <br/>
-<br/><img align="centre" src="https://github.com/ValentinPatrakeev/Equipments-Failures/blob/main/broken%20machine.jpg" width="400">
+
+
 <br/>
 ### Main libraries used
 ![PANDAS](https://img.shields.io/badge/PANDAS-1.3.5-090909??style=flat-square&logo=PANDAS)
